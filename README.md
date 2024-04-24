@@ -1,23 +1,36 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Presentation</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Hello! My name is Gilson, and here is some information about me;</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About</h2>
 
 ###
 
-<p align="left">## Hello! My name is Gilson, and here is some information about me;<br>
-### About<br>- 🖥️ Programmer for 4 years. Always looking for new knowledge and new challenges.<br>- 📚 Software engineer<br>
-### Skills<br> - LUA developer;<br> - Junior in Python, C, C++ and JavaScript;<br> - Database: Mysql;<br><br>
-### Experiences<br>  - Experienced in mods for games in the LUA language. Software creator in Python, C and C++.</p>
+<p align="left">•  🖥️ Programmer for 4 years. Always looking for new knowledge and new challenges.<br>•  📚 Software engineer</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Skills</h2>
+
+###
+
+<p align="left">•  LUA developer;<br> • Junior in Python, C, C++ and JavaScript;<br> •  Database: Mysql;</p>
+
+###
+
+<h2 align="left">Experiences</h2>
+
+###
+
+<p align="left">•  Experienced in mods for games in the LUA language. Software creator in Python, C and C++.</p>
+
+###
+
+<h2 align="left">Languages ​​I know</h2>
 
 ###
 
